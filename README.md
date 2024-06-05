@@ -1,4 +1,4 @@
-# chatlog.github.io
+# chatlog
 A dumb little implementation for recording picarto chat history
 
 Disclaimer: All the materials presented here are just silly entertainment. The author of the site is not responsible for any rude or offensive text entries or links.
