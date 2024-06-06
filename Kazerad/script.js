@@ -29,7 +29,7 @@ if (chatFile) {
         </div>
         <div class="message-content">
           <span style="color: #${message.k};">${message.n}</span>${message.m}
-          <div class="message-date">${new Date(message.d).toLocaleString()}</div>
+          <div class="message-date">${new Date(message.d).toLocaleString()} | <a href="https://picarto.tv/${message.rn}">${message.rn}</a></div>
         </div>
         `;
         chatContainer.appendChild(chatMessage);
